@@ -54,7 +54,7 @@ const App = () => {
                 <Route path='/calendar' element="Calendar"/>
                 <Route path='/color-picker' element="ColorPicker" />
                 
-                {/* apps */}
+                {/* charts */}
                 <Route path='/line' element="Line" />
                 <Route path='/area' element="Area" />
                 <Route path='/bar' element="Bar"/>
