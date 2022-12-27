@@ -9,6 +9,11 @@ Foi copiado o package.json do repositorio https://github.com/adrianhajdin/projec
 npm i --legacy-peer-deps
 ```
 
+### Dependencias
+
+- React Icons: https://react-icons.github.io/react-icons
+- ej2-react-popups: https://www.npmjs.com/package/@syncfusion/ej2-react-popups
+
 ## Padrão de estilização
 
 ### CSS
@@ -31,6 +36,6 @@ A arquitetura do projeto consiste em:
    |- pages
 ```
 
- ### Data
+### Data
 
- A pasta **data** foi importada com as imagens de pessoas e de produtos, alem de um arquivo **dummy.js**, que possui alguns trechos de jsx e arrays de informações default.
+A pasta **data** foi importada com as imagens de pessoas e de produtos, alem de um arquivo **dummy.js**, que possui alguns trechos de jsx e arrays de informações default.
