@@ -5,6 +5,6 @@ Este projeto é um template de um dashboard com diversas funcionalidades, as qua
 ## Package.json
 
 Foi copiado o package.json do repositorio https://github.com/adrianhajdin/project_syncfusion_dashboard, em seguida foi utilizado o comando:
-````bash
+```bash
 npm i --legacy-peer-deps
 ```
