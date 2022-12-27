@@ -18,3 +18,19 @@ O projeto possui os estilos padrões de css que normalizam alguns paramentros in
 ### Tailwind
 
 Para o tailwind a instação foi feita na adição dos arquivos **tailwind.config.js** e **craco.config.js**.
+
+## Arquitetura
+
+A arquitetura do projeto consiste em:
+
+```bash
+- src
+   |- components
+   |- contexts
+   |- data
+   |- pages
+```
+
+ ### Data
+
+ A pasta **data** foi importada com as imagens de pessoas e de produtos, alem de um arquivo **dummy.js**, que possui alguns trechos de jsx e arrays de informações default.
