@@ -8,3 +8,13 @@ Foi copiado o package.json do repositorio https://github.com/adrianhajdin/projec
 ```bash
 npm i --legacy-peer-deps
 ```
+
+## Padrão de estilização
+
+### CSS
+
+O projeto possui os estilos padrões de css que normalizam alguns paramentros inicialmente, estão nos arquivos **src/index.css** e **src/App.css**.
+
+### Tailwind
+
+Para o tailwind a instação foi feita na adição dos arquivos **tailwind.config.js** e **craco.config.js**.
