@@ -1,4 +1,4 @@
-import { useContext, useState } from "react"
+import { createContext, useContext, useState } from "react"
 
 const StateContext = createContext()
 
