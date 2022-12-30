@@ -1,12 +1,11 @@
 import { TooltipComponent } from '@syncfusion/ej2-react-popups'
-import { Menu } from '@syncfusion/ej2/navigations'
 import React, { useEffect } from 'react'
 import { AiOutlineMenu } from 'react-icons/ai'
 import { BsChatLeft } from 'react-icons/bs'
 import { FiShoppingCart } from 'react-icons/fi'
 import { RiNotification3Line } from 'react-icons/ri'
 
-import avatar from '../data/avatar.jpg'
+import avatar from '../data/avatarRuan.jpeg'
 import {Cart, Chat, Notification, UserProfile} from '.'
 import { useStateContext } from '../contexts/ContextProvider'
 import { MdKeyboardArrowDown } from 'react-icons/md'
